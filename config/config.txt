@@ -1,0 +1,8 @@
+{
+	"HOST":"localhost",
+	"PORT":"8080",
+	"ENDPOINT_VALIDATION":"http://localhost:8008",
+	"ENDPOINT_DATA":"http://localhost:8888",
+	"ENDPOINT_TRX_SYSTEM":"http://api.gosmo.wolox.com.ar/transactions/system",
+	"TIMEOUT":30
+}
